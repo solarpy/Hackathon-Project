@@ -1,0 +1,12 @@
+20230105	00:13:44	42ea46c8-48e8-4e20-ba9a-7f6b86147db1	TypeError: fsPromises.readFil is not a function}
+20230106	17:20:31	e13a1032-88c9-47c1-84a5-c97d7c4b74c4	Error: Not allowed by CORS}
+20230109	02:32:15	746406f1-f1d9-46e6-adf8-933f8cbfa40e	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Documents\GitHub\Hackathon-Project\Frontend\pages-login.html'}
+20230109	02:33:15	b1e4d474-f3c9-4130-9cff-79c81a9db5de	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Documents\GitHub\Hackathon-Project\Frontend\pages-login.html'}
+20230109	02:33:16	c75a44c6-07f4-4c96-bd77-1ee6baf2b697	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Documents\GitHub\Hackathon-Project\Frontend\pages-login.html'}
+20230109	02:33:16	2777ea51-94a5-483f-8f66-5e13718f7b17	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Documents\GitHub\Hackathon-Project\Frontend\pages-login.html'}
+20230109	02:33:16	2e0370eb-f6f3-4119-8f29-616131ce904e	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Documents\GitHub\Hackathon-Project\Frontend\pages-login.html'}
+20230109	02:33:16	e300523f-d125-40b0-94ae-749a4121d1ac	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Documents\GitHub\Hackathon-Project\Frontend\pages-login.html'}
+20230109	02:33:17	ed137935-a2f1-415b-8422-da7ffdf71fa7	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Documents\GitHub\Hackathon-Project\Frontend\pages-login.html'}
+20230109	02:33:17	3df335bd-1b96-4d98-a7d6-d34d7e6eb65c	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Documents\GitHub\Hackathon-Project\Frontend\pages-login.html'}
+20230109	02:33:17	3bf4e7cc-be27-4af3-91db-f3b0043f634f	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Documents\GitHub\Hackathon-Project\Frontend\pages-login.html'}
+20230109	02:33:17	33f69eb0-c1a1-4751-8e71-8ecd0bb1c317	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Documents\GitHub\Hackathon-Project\Frontend\pages-login.html'}
