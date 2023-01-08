@@ -23,7 +23,7 @@ contract Auth {
     function createUser(string memory _username, string memory _email, string memory _password) public
     {     
         userCount++;
-        usersList[_email] = user(_username, _email, _password);
+        usersList[_username] = user(_username, _email, _password);
         emit userCreated(_username, _email, _password);
     }
 }

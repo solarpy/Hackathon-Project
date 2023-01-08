@@ -37,8 +37,18 @@ app.use('/', express.static(path.join(__dirname, '/public')));
 app.use('/assets', express.static(path.join(__dirname, '../Frontend/assets')));
 
 app.get('/login(.html)?', (req, res) => {
-    //res.sendFile('./views/index.html', { root: __dirname });
-    res.sendFile(path.join(__dirname, '..', 'Frontend', 'pages-login.html'));
+    res.sendFile(path.join(__dirname, '..', 'Frontend', 'Login.html'));
+});
+
+app.post('/login(.html)?', (req, res) => {
+    // Insert Login Code Here
+    let username = req.body.username;
+    let password = req.body.password;
+    res.send(`Username: ${username} Password: ${password}`);
+  });
+
+app.get('/SignUp(.html)?', (req, res) => {
+    res.sendFile(path.join(__dirname, '..', 'Frontend', 'SignUp.html'));
 });
 
 app.get('/', (req, res) => {
