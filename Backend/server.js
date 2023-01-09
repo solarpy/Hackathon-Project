@@ -6,7 +6,7 @@ const provider = new ethers.providers.WebSocketProvider("ws://localhost:9545");
 // Signer
 const signer = new ethers.Wallet("06b91f40bafe25bb97844ca576675d475ad4c197a4acab0f00a7dabf8326d480", provider);
 // Contract
-const auth = new ethers.Contract("0x0d8cc4b8d15D4c3eF1d70af0071376fb26B5669b", contract.abi, signer);
+const auth = new ethers.Contract("0xEcFcaB0A285d3380E488A39B4BB21e777f8A4EaC", contract.abi, signer);
 
 const express = require('express');
 const app = express();
