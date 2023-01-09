@@ -74,8 +74,8 @@
       ]
     },
     "C:\\Users\\Admin\\Documents\\GitHub\\Hackathon-Project\\Backend\\contracts\\Auth.sol": {
-      "lastModificationDate": 1672476299160,
-      "contentHash": "55f89ffc00212ea3ca21408fa3a10ffe",
+      "lastModificationDate": 1673202584733,
+      "contentHash": "db6256d4f9885ece7e31efc08c0715ba",
       "sourceName": "contracts/Auth.sol",
       "solcConfig": {
         "version": "0.8.9",
